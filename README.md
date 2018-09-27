@@ -1,6 +1,6 @@
 # Bitcoin Name Service
 
-> 📖🔍 Documents of the Ontology Name Service.
+> 📖🔍 Documents of the Bitcoin Name Service.
 
 ## 💡 What is BNS?
 BNS – or blockchain name system – is the protocol on the internet that turns human-comprehensible decentralized website names such as 'website.btc' or 'mywebsite.btc' into addresses understandable by decentralized network machines.
